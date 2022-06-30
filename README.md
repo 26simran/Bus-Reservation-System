@@ -1,4 +1,4 @@
-# Bus-Reservation-System
+//Bus-Reservation-System
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
